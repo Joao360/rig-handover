@@ -77,3 +77,13 @@ page again with `LANE_MARKER` unset (the banner reads "no marker set") and uploa
 link. Move this plan to `docs/plans/done/` with its issue list.
 
 Done when: the preview link no longer shows the lane marker.
+
+## Issues
+
+- [#1 Run log reader](https://github.com/Joao360/rig-handover/issues/1) · § 1
+- [#2 Digest page: GET /digest/:night](https://github.com/Joao360/rig-handover/issues/2) · § 2a
+- [#3 Digest JSON: GET /api/digest/:night](https://github.com/Joao360/rig-handover/issues/3) · § 2b
+- [#4 Board link to each night's digest](https://github.com/Joao360/rig-handover/issues/4) · § 2c
+- [#5 Route tests for the digest](https://github.com/Joao360/rig-handover/issues/5) · § 2d
+- [#6 Preview for review](https://github.com/Joao360/rig-handover/issues/6) · § 3
+- [#7 Clean up: remove the lane marker from the preview](https://github.com/Joao360/rig-handover/issues/7) · § 4
